@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class SchoolSystemRoles {
-
     static class Person {
         String name;
         int age;
@@ -11,7 +10,6 @@ public class SchoolSystemRoles {
             this.age = age;
         }
     }
-
     static class Teacher extends Person {
         String subject;
 

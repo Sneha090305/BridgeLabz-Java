@@ -21,7 +21,6 @@ public class OnlineRetailOrderManagement {
         }
     }
 
-    // -------- Final Class --------
     static class DeliveredOrder extends ShippedOrder {
         String deliveryDate;
 

@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class SmartHomeDevices {
 
-    // -------- Superclass --------
     static class Device {
         String deviceId;
         String status;
@@ -13,7 +12,6 @@ public class SmartHomeDevices {
         }
     }
 
-    // -------- Subclass --------
     static class Thermostat extends Device {
         int temperatureSetting;
 
@@ -29,7 +27,6 @@ public class SmartHomeDevices {
         }
     }
 
-    // -------- main method --------
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

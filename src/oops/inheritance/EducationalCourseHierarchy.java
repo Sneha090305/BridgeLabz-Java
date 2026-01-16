@@ -63,7 +63,6 @@ public class EducationalCourseHierarchy {
 
         PaidOnlineCourse course =
                 new PaidOnlineCourse(name, duration, platform, recorded, fee, discount);
-
         System.out.println("\n--- Course Details ---");
         System.out.println("Course Name: " + course.courseName);
         System.out.println("Final Fee: " + course.calculateFinalFee());

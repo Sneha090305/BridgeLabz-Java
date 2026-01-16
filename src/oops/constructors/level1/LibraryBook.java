@@ -9,7 +9,6 @@ public class LibraryBook {
     private double price;
     private boolean available;
 
-    // Parameterized constructor
     public LibraryBook(String title, String author, double price) {
         this.title = title;
         this.author = author;

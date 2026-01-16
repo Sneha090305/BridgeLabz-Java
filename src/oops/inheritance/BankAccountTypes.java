@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class BankAccountTypes {
 
     static class BankAccount {
@@ -11,7 +10,6 @@ public class BankAccountTypes {
             this.balance = balance;
         }
     }
-
     static class SavingsAccount extends BankAccount {
         double interestRate;
 

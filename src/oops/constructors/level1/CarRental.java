@@ -9,7 +9,6 @@ public class CarRental {
     private int rentalDays;
     private double dailyRate;
 
-    // Parameterized constructor
     public CarRental(String customerName, String carModel, int rentalDays) {
         this.customerName = customerName;
         this.carModel = carModel;

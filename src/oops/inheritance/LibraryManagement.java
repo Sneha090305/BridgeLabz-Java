@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class LibraryManagement {
 
-    // -------- Book (Superclass) --------
     static class Book {
         String title;
         int publicationYear;
@@ -18,7 +17,6 @@ public class LibraryManagement {
         }
     }
 
-    // -------- Author (Subclass) --------
     static class Author extends Book {
         String authorName;
         String bio;
@@ -29,7 +27,6 @@ public class LibraryManagement {
             this.bio = bio;
         }
 
-        @Override
         void displayInfo() {
             super.displayInfo();
             System.out.println("Author Name: " + authorName);
@@ -37,7 +34,6 @@ public class LibraryManagement {
         }
     }
 
-    // -------- main method --------
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

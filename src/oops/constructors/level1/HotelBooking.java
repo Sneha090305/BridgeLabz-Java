@@ -1,4 +1,4 @@
-package objectorientedprogramming.constructors.level1;
+package oops.constructors.level1;
 
 import java.util.Scanner;
 
@@ -8,19 +8,16 @@ public class HotelBooking {
     private String roomType;
     private int nights;
 
-    // Default constructor
     public HotelBooking() {
         this("NA", "Standard", 1);
     }
 
-    // Parameterized constructor
     public HotelBooking(String guestName, String roomType, int nights) {
         this.guestName = guestName;
         this.roomType = roomType;
         this.nights = nights;
     }
 
-    // Copy constructor
     public HotelBooking(HotelBooking other) {
         this(other.guestName, other.roomType, other.nights);
     }
