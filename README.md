@@ -33,6 +33,10 @@
 
 - **09-Jan-2026 (Friday):** Learned Git Flow commands.
 
+- **10-Jan-2026 (Saturday):** Completed practice problems on Java `this`, `static`, and `final`.
+
+- **12-Jan-2026 (Monday):** Completed practice problems on Java object modeling.
+
 - 13-Jan-2026 (Tuesday): Completed with practice problems on Java encapsulation.
 
 14-Jan-2026 (Wednesday): Started with data structures in Java and problems on linked-list.
@@ -67,7 +71,4 @@
 
 02-Feb-2026 (Monday): Completed programs on Java I/O Streams and started learning Exception Handling.
 
-- **10-Jan-2026 (Saturday):** Completed practice problems on Java `this`, `static`, and `final`.
-
-- **12-Jan-2026 (Monday):** Completed practice problems on Java object modeling.
 
