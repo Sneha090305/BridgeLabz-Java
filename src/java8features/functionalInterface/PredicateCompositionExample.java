@@ -1,4 +1,4 @@
-package javacollectionsstream.java8features.day7FunctionalInterface;
+package java8features.FunctionalInterface;
 
 import java.util.*;
 import java.util.function.Predicate;

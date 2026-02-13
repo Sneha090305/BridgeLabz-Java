@@ -1,4 +1,4 @@
-package javacollectionsstream.java8features.day7FunctionalInterface;
+package java8features.FunctionalInterface;
 
 interface Addition {
     int add(int a, int b);

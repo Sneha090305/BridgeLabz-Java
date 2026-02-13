@@ -1,4 +1,4 @@
-package javacollectionsstream.java8features.day7FunctionalInterface;
+package java8features.functionalinterface;
 
 import java.util.function.BiFunction;
 
