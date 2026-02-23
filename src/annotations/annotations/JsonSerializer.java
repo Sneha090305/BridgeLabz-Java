@@ -22,7 +22,7 @@ class User1{
 
     // Map field "name" to JSON key "user_name"
     @JsonField(name="user_name")
-    String name="Shivani";
+    String name="Sneha";
 
     // Map field "age" to JSON key "user_age"
     @JsonField(name="user_age")

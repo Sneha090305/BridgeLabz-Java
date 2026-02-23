@@ -18,7 +18,7 @@ class TaskManager{
     /*
      Method annotated with TaskInfo
     */
-    @TaskInfo(priority=1, assignedTo="Shivani")
+    @TaskInfo(priority=1, assignedTo="Sneha")
     public void completeTask(){
         System.out.println("Task Completed");
     }

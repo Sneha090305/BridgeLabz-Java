@@ -27,7 +27,7 @@ import java.lang.reflect.*;    // Import reflection classes like Method
 class Project{
 
     // Annotation applied to login method
-    @Todo(task="Implement login", assignedTo="Shivani")
+    @Todo(task="Implement login", assignedTo="Sneha")
     public void login(){}
 
     // Annotation applied to payment method

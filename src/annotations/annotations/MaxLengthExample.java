@@ -57,7 +57,7 @@ public class MaxLengthExample{
     public static void main(String[] args) throws Exception{
 
         // Create a User object with username
-        User u = new User("Shivani");
+        User u = new User("Sneha");
 
         // If username length is valid, print confirmation
         System.out.println("Username accepted");
