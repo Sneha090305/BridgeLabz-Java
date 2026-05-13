@@ -161,7 +161,7 @@
 
 - **27-Mar-2026 (Friday):** Started working on Address Book App and pushed UC9–UC12 code to a new GitHub repo named "AddressBook-SpringBoot".
 
-- - **28-Mar-2026 (Saturday):** Attended comprehensive power-skills training program.
+-  **28-Mar-2026 (Saturday):** Attended comprehensive power-skills training program.
 
 - **30-Mar-2026 (Monday):** Completed UC15 of Quantity Measurement App and uploaded the code to GitHub repo named "Quantity-Measurement-App".
 
@@ -186,3 +186,99 @@
 - **11-Apr-2026 (Saturday):** Attended power-skills training and revised basic grammar and professional email writing.
 
 - **13-Apr-2026 (Monday):** Started learning concepts of RabbitMQ, Spring Batch with Excel, and Microservices.
+
+- - **14-Apr-2026 (Tuesday):** Started learning concepts of Redis for Microservices.
+
+- **15-Apr-2026 (Wednesday):** Continued learning concepts of Redis for Microservices.
+
+- **16-Apr-2026 (Thursday):** Covered important concepts of Microservices and completed the basic setup for an E-Commerce application implementing Microservices.
+
+- **17-Apr-2026 (Friday):** Started working on Book Store Microservices and completed infrastructure services including Eureka, Config Server, and API Gateway.
+
+- **18-Apr-2026 (Saturday):** Attended power-skills training and revised presentation fundamentals and communication rules.
+
+- **20-Apr-2026 (Monday):** Completed infrastructure services and started working on Admin Service.
+
+- **21-Apr-2026 (Tuesday):** Completed Admin Service and started working on Common Library and User Service.
+
+- **22-Apr-2026 (Wednesday):** Completed Common Library and User Service, and started working on Cart Service and Customer Service.
+
+- **24-Apr-2026 (Friday):** Completed Order Service and Product Service, and started working on Notification Service.
+
+- **25-Apr-2026 (Saturday):** Attended power-skills training and revised presentation fundamentals and communication rules.
+
+- **27-Apr-2026 (Monday):** Completed Notification Service and started working on Wishlist Service and Feedback Service.
+
+- **28-Apr-2026 (Tuesday):** Completed infrastructure services and verified all API endpoints to ensure proper functionality.
+
+- **29-Apr-2026 (Wednesday):** Verified all API endpoints and pushed the E-Commerce Bookstore Microservices project to GitHub in a repository named `bookstore-microservices`.
+
+- **30-Apr-2026 (Thursday):** Started learning concepts of Cloud and AWS.
+
+- **02-May-2026 (Saturday):** Attended power-skills training and revised presentation fundamentals and communication rules.
+
+- **04-May-2026 (Monday):** Learned concepts of Docker.
+
+- **05-May-2026 (Tuesday):** Attempted deployment of the previously built Greeting App using AWS and Docker concepts.
+
+- **06-May-2026 (Wednesday):** Started working on the group project `Stock- **14-Apr-2026 (Tuesday):** Started learning concepts of Redis for Microservices.
+
+- **15-Apr-2026 (Wednesday):** Continued learning concepts of Redis for Microservices.
+
+- **16-Apr-2026 (Thursday):** Covered important concepts of Microservices and completed the basic setup for an E-Commerce application implementing Microservices.
+
+- **17-Apr-2026 (Friday):** Started working on Book Store Microservices and completed infrastructure services including Eureka, Config Server, and API Gateway.
+
+- **18-Apr-2026 (Saturday):** Attended power-skills training and revised presentation fundamentals and communication rules.
+
+- **20-Apr-2026 (Monday):** Completed infrastructure services and started working on Admin Service.
+
+- **21-Apr-2026 (Tuesday):** Completed Admin Service and started working on Common Library and User Service.
+
+- **22-Apr-2026 (Wednesday):** Completed Common Library and User Service, and started working on Cart Service and Customer Service.
+
+- **23-Apr-2026 (Thursday):** Completed Cart Service and Customer Service, and started working on Order Service and Product Service.
+
+- **24-Apr-2026 (Friday):** Completed Order Service and Product Service, and started working on Notification Service.
+
+- **25-Apr-2026 (Saturday):** Attended power-skills training and revised presentation fundamentals and communication rules.
+
+- **27-Apr-2026 (Monday):** Completed Notification Service and started working on Wishlist Service and Feedback Service.
+
+- **28-Apr-2026 (Tuesday):** Completed infrastructure services and verified all API endpoints to ensure proper functionality.
+
+- **29-Apr-2026 (Wednesday):** Verified all API endpoints and pushed the E-Commerce Bookstore Microservices project to GitHub in a repository named `bookstore-microservices`.
+
+- **30-Apr-2026 (Thursday):** Started learning concepts of Cloud and AWS.
+
+- **02-May-2026 (Saturday):** Attended power-skills training and revised presentation fundamentals and communication rules.
+
+- **04-May-2026 (Monday):** Learned concepts of Docker.
+
+- **05-May-2026 (Tuesday):** Attempted deployment of the previously built Greeting App using AWS and Docker concepts.
+
+- **06-May-2026 (Wednesday):** Started working on the group project `Crypto-Portfolio-Tracker` and worked on Price Service.
+
+- **07-May-2026 (Thursday):** Completed Auth Service and verified the functionality of all API endpoints.
+
+- **08-May-2026 (Friday):** Workedon Price Service and verified the functionality of all API endpoints.
+
+- **09-May-2026 (Saturday):** Attended recap session for soft-skills training.
+
+- **11-May-2026 (Monday):** Made changaes and worked on Price Service 
+
+- **12-May-2026 (Tuesday):** Worked on Quantity Measurement App UC18.
+
+- **13-May-2026 (Wednesday):** Attended Spring Boot review session with mentor and cross-verified GitHub repositories and folder structures.` and worked on Auth Service and Notification Service.
+
+- **07-May-2026 (Thursday):** Worked on Quantity Measurement App UC19.
+
+- **08-May-2026 (Friday):** Working on UC19 on Quantity Measurement App.
+
+- **09-May-2026 (Saturday):** Attended recap session for soft-skills training.
+
+- **11-May-2026 (Monday):** Solved Errors on price service in Crpto-Portfolio-Tracker.
+
+- **12-May-2026 (Tuesday):** Practices AWS and docker concepts .
+
+- **13-May-2026 (Wednesday):** completed and Pushed price service  on the group project `Crypto-Portfolio-Tracker`.
